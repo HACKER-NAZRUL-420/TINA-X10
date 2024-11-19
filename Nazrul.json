@@ -7,6 +7,8 @@
   "notification": false,
   "approval": false,
   "saveState": false,
+  "email": "hosenmdsakhoyat@gmail.com",
+  "password": "aibot009+",
   "BOTNAME": "𝐈𝐬𝐥𝐚𝐦𝐢𝐜𝐤 𝐂𝐡𝐚𝐭",
   "PREFIX": "/",
   "OPERATOR": [
